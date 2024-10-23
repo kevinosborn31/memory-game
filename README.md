@@ -1,4 +1,4 @@
-# wdi-fundamentals-memorygame
+# Memory game
 
 Live Playable Game: https://kevinosborn31.github.io/memory-game/
 
